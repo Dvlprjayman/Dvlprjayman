@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is Jonathan and I'm a SOC Analyst from NYC.</h2>
 
 ###
@@ -45,9 +46,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Dvlprjayman/Dvlprjayman/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="200" src="https://imgflip.com/i/8fqdoo"  />
 
 ###
